@@ -59,7 +59,7 @@ Business Questions to Answer:
 
 9.Which city has the largest tax percent/ VAT (Value Added Tax)? 
 
-10.Which customer type buys the most?
+10.Which customer type buys the most in VAT?
 
 
 
