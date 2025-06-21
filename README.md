@@ -29,8 +29,11 @@ During this initial phase, the data is examined to detect any NULL or missing va
 This will help use generate some new columns from existing ones.
 
   Add a new column named time_of_day to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
+  
   Add a new column named day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
+  
   Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
+  
   
 3. Exploratory Data Analysis (EDA):
 
@@ -39,14 +42,23 @@ Conducting exploratory data analysis is essential to address the project's liste
 Business Questions to Answer:
 
 1.How many unique cities does the data have?
+
 2.In which city is each branch? 
+
 3.How many unique product lines does the data have?
+
 4.What is the most selling product line? 
-5.What is the total revenue by month? 
+
+5.What is the total revenue by month?
+
 6.What month had the largest COGS?
+
 7.What product line had the largest revenue? 
+
 8.What is the city with the largest revenue? 
+
 9.Which city has the largest tax percent/ VAT (Value Added Tax)? 
+
 10.Which customer type buys the most?
 
 
